@@ -1,0 +1,3 @@
+[submodule "src/deps/xlink"]
+	path = deps/xlink
+	url = https://github.com/luxonis/XLink.git
